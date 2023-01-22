@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "544007931754",
+    "project_id": "helloby",
+    "storage_bucket": "helloby.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544007931754:android:3fd33906d3f2f1b01b0713",
+        "android_client_info": {
+          "package_name": "com.example.flutterfirebaseproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544007931754-1bvuk9hgp7q0sgb2hc2q22ek29uvvdlt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByMTbuTtBkys80-ncSMTFuQTZNq7ncdXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544007931754-1bvuk9hgp7q0sgb2hc2q22ek29uvvdlt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
